@@ -1,4 +1,0 @@
-AuthName "Protected Area"
-AuthType Basic
-AuthUserFile "/home/users6/h/hce7404/www/archeolivre/admin/htpasswd.fi"
-require valid-user
